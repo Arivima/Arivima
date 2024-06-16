@@ -1,12 +1,14 @@
-.flex-container {
+.columns {
     display: flex;
+    justify-content: space-between;
 }
 
-.flex-child {
+.column {
     flex: 1;
-    border: 2px solid yellow;
-}  
+    padding: 10px;
+}
 
-.flex-child:first-child {
-    margin-right: 20px;
-} 
+.column img {
+    max-width: 100%;
+    height: auto;
+}
