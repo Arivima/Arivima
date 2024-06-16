@@ -47,4 +47,5 @@
 <!---
 ![codewars](https://www.codewars.com/users/Arivima/badges/micro)  
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arivima)](https://github.com/Arivima/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arivima&label=Profile%20views&color=0e75b6&style=flat" alt="Arivima" /> </p>
 -->
