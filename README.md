@@ -1,7 +1,5 @@
-<link rel="stylesheet" href="styles.css">
-
-<div class="columns">
-  <div class="column">
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding: 10px;">
     <a href="#">
       <br>
       <img src="https://img.shields.io/badge/avilla--m-white?style=flat&logo=42&color=white&labelColor=black" alt="avilla-m" height="25">
@@ -19,12 +17,14 @@
       <img src="https://img.shields.io/badge/bootcamp-data_science_&_AI-lightgrey?style=flat" alt="bootcamp" height="25">
     </a>
   </div>
-  <div class="column">
+  <div style="flex: 1; padding: 10px;">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arivima&show_icons=true&langs_count=6&layout=compact&theme=transparent" alt="Top Langs">  
     <br>
   </div>
 </div>
+
+
 
 <!---
 ![codewars](https://www.codewars.com/users/Arivima/badges/micro)  
