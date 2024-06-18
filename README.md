@@ -1,38 +1,38 @@
 ---
 <!--- LINKEDIN -->
-<a href="https://www.linkedin.com/in/ariellevillamassone/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="20"></a>
+<a href="https://www.linkedin.com/in/ariellevillamassone/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="25"></a>
 
 <!--- LANGUAGES -->
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arivima&show_icons=true&langs_count=6&layout=compact&theme=transparent" alt="Top Langs"/></a>
   <br>
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="20"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="20"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/></a>
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="30" /></a>
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tf" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tf" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" height="30" /></a>
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-0092e7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="mlflow" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Prefect-black.svg?style=for-the-badge&logo=prefect&logoColor=white" alt="prefect" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-0092e7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="mlflow" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prefect-black.svg?style=for-the-badge&logo=prefect&logoColor=white" alt="prefect" height="30" /></a>
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="20"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" height="20"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NestJS-%23D00000?style=for-the-badge&logo=nestJS&logoColor=white" alt="Nest" height="20"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NestJS-%23D00000?style=for-the-badge&logo=nestJS&logoColor=white" alt="Nest" height="30"/></a>
 </p>
 <br>
 <br>
 
 <!--- LE WAGON -->
 <p align="center">
-  <a href="#"><img alt="wagon" height="20" src="https://asset.brandfetch.io/iduHcppxLh/id60eXK-ZD.svg"  /></a>
+  <a href="#"><img alt="wagon" height="25" src="https://asset.brandfetch.io/iduHcppxLh/id60eXK-ZD.svg"  /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/bootcamp-data_science_&_AI-lightgrey?style=flat" alt="bootcamp" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/completed-Jun_2024-lightgrey?style=flat" alt="completion" height="20" /></a>
@@ -59,7 +59,7 @@
 
 <!--- 42 -->
 <p align="center">
-  <a href="https://42.fr/en/homepage/"><img src="https://img.shields.io/badge/Roma_Luiss-white?style=flat&logo=42&color=black&labelColor=black" alt="42" height="20"/></a>
+  <a href="https://42.fr/en/homepage/"><img src="https://img.shields.io/badge/Roma_Luiss-white?style=flat&logo=42&color=black&labelColor=black" alt="42" height="25"/></a>
   <br>
   <a href="https://profile.intra.42.fr/users/avilla-m"><img src="https://img.shields.io/badge/avilla--m-white?style=flat&logo=42&color=lightgrey&labelColor=black" alt="avilla-m" height="20"/></a>
   <a href="#"><img src="https://img.shields.io/badge/common_core-passed-green?style=flat" alt="common core" height="20" /></a>
