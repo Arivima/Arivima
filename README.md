@@ -25,9 +25,9 @@
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="26"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" height="26"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NestJS-%23D00000?style=for-the-badge&logo=nestJS&logoColor=white" alt="Nest" height="26"/></a>
+  <br>
   <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="26"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="26"/></a>
-  <br>
 </p>
 <br>
 <br>
