@@ -51,7 +51,7 @@
   <a href="#"><img src="https://img.shields.io/badge/projects_completed-16-lightgrey?style=flat" alt="projects" height="25"/></a>
   <a href="#"><img src="https://img.shields.io/badge/level-10.9-lightgrey?style=flat" alt="projects" height="25"/></a>
   <br>
-  <details open align="center">
+  <details close align="center">
   <summary>See list of projects</summary>
   <p align="left">
     <br>
