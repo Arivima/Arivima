@@ -1,6 +1,7 @@
 ---
 <!--- LINKEDIN -->
 <a href="https://www.linkedin.com/in/ariellevillamassone/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="25"></a>
+  <a href="https://github.com/Arivima/LeWagon_Pokedex.git"><img src="https://skillicons.dev/icons?i=linkedin" height="20"/></a>
 
 <!--- LANGUAGES -->
 <p align="center">
