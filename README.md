@@ -49,7 +49,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-0092e7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="mlflow" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CNN-white?style=flat" alt="cnn" height="20"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GenAI_GAN-white?style=flat" alt="gan" height="20"/></a>
   <br>
   <a href="https://github.com/Arivima/LeWagon_Taxifare.git"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
   <a href="https://github.com/Arivima/LeWagon_Taxifare.git"><img src="https://img.shields.io/badge/Taxifare-predict_price_of_a_taxi_ride-lightgrey?style=flat" height="20"/></a>
@@ -57,8 +58,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-0092e7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CNN-white?style=flat" alt="cnn" height="20"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GenAI_GAN-white?style=flat" alt="gan" height="20"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="mlflow" height="20" /></a>
   <br>
   </p>
   <br>
