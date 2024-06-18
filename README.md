@@ -20,7 +20,7 @@
   <br>
   <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="25" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-0092e7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="mlflow" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="mlflow" height="25" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Prefect-black.svg?style=for-the-badge&logo=prefect&logoColor=white" alt="prefect" height="25" /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="25"/></a>
@@ -37,6 +37,21 @@
   <a href="#"><img src="https://img.shields.io/badge/bootcamp-data_science_&_AI-lightgrey?style=flat" alt="bootcamp" height="25" /></a>
   <a href="#"><img src="https://img.shields.io/badge/completed-Jun_2024-lightgrey?style=flat" alt="completion" height="25" /></a>
   <br>
+  <details close align="center">
+  <summary>See list of projects</summary>
+  <p align="left">
+  <br>
+  <a href="https://github.com/Arivima/LeWagon_Pokedex.git"><img src="https://img.shields.io/badge/Pokedex-identify_pokemon_&_generate_new_ones-lightgrey?style=flat" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-0092e7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CNN-white?style=flat" alt="file_descriptors" height="25"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GenAI_GAN-white?style=flat" alt="file_descriptors" height="25"/></a>
+  <br>
+  </p>
+  <br>
+  </details>
   <br>
 </p>
 
