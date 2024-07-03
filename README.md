@@ -45,10 +45,10 @@
   <br>
   <a href="https://github.com/Arivima/LeWagon_Pokedex.git"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
   <a href="https://github.com/Arivima/LeWagon_Pokedex.git"><img src="https://img.shields.io/badge/Pokedex-identify_pokemon_&_generate_new_ones-lightgrey?style=flat" height="20"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/CNN-white?style=flat" alt="cnn" height="20"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CNN-white?style=flat" alt="cnn" height="20"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GenAI_GAN-white?style=flat" alt="gan" height="20"/></a>
-    <br>
-    <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="20" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/matplotlib-175880.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" height="20" /></a>
@@ -60,6 +60,11 @@
   <a href="#"><img src="https://img.shields.io/badge/mlflow-blue.svg?style=for-the-badge&logo=mlflow&logoColor=white" alt="mlflow" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/fastapi-05978a.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" height="20" /></a>
   <a href="#"><img src="https://img.shields.io/badge/uvicorn-pink.svg?style=for-the-badge&logo=gunicorn&logoColor=purple" alt="uvicorn" height="20" /></a>
+  <br>
+  <a href="https://github.com/Arivima/LeWagon_Pokedex_front.git"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
+  <a href="https://github.com/Arivima/LeWagon_Pokedex_front.git"><img src="https://img.shields.io/badge/Pokedex_front-user_interface-lightgrey?style=flat" height="20"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white" alt="python" height="20" /></a>
   <br>
   <br>
   <a href="https://github.com/Arivima/LeWagon_Taxifare.git"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
