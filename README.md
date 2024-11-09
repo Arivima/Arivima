@@ -20,15 +20,19 @@
   <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="26" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-0092e7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="26" /></a>
   <a href="#"><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="mlflow" height="26" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Prefect-black.svg?style=for-the-badge&logo=prefect&logoColor=white" alt="prefect" height="26" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="airflow" height="20" /></a>
   <br>
+<!--   <a href="#"><img src="https://img.shields.io/badge/Prefect-black.svg?style=for-the-badge&logo=prefect&logoColor=white" alt="prefect" height="26" /></a>
+  <br> -->
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="26"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" height="26"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NestJS-%23D00000?style=for-the-badge&logo=nestJS&logoColor=white" alt="Nest" height="26"/></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="26"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="26"/></a>
-</p>
+<!--   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="SQL" height="26"/></a>
+</p> -->
+<br>
 <br>
 <br>
 
@@ -37,11 +41,44 @@
   <a href="#"><img alt="wagon" height="25" src="https://asset.brandfetch.io/iduHcppxLh/id60eXK-ZD.svg"  /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/bootcamp-data_science_&_AI-lightgrey?style=flat" alt="bootcamp" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/completed-Jun_2024-lightgrey?style=flat" alt="completion" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/completed-Jun_2024-green?style=flat" alt="completion" height="20" /></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/bootcamp-data_engineering-lightgrey?style=flat" alt="bootcamp" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/completed-Nov_2024-green?style=flat" alt="completion" height="20" /></a>
   <br>
   <details close align="center">
   <summary>See list of projects</summary>
   <p align="left">
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/bootcamp-data_engineering-black?style=flat" alt="bootcamp" height="20" /></a>
+  <br>
+  <a href="https://github.com/Arivima/Le_Wagon_MLOps_Optimization_Taxifare"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
+  <a href="https://github.com/Arivima/Le_Wagon_MLOps_Optimization_Taxifare"><img src="https://img.shields.io/badge/Taxifare_Optimization-ETL_data_engineering_ML_pipeline-lightgrey?style=flat" height="20"/></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="spark" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Google Dataproc-AECBFA?style=for-the-badge&logo=googledataproc&logoColor=white" alt="dataproc" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="airflow" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker-compose" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Google Cloud Storage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white" alt="cloud-storage" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Google BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="bigquery" height="20" /></a>
+  <br>
+  <a href="https://github.com/Arivima/Le_Wagon_MLOps_Optimization_Taxifare_API"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
+  <a href="https://github.com/Arivima/Le_Wagon_MLOps_Optimization_Taxifare"><img src="https://img.shields.io/badge/Taxifare_Optimization-cloud_deployed_API-lightgrey?style=flat" height="20"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/fastapi-05978a.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gunicorn&color=499848&logo=Gunicorn&logoColor=FFFFFF&label=" alt="gunicorn" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-0092e7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Artifact_Registry-blue?style=for-the-badge" alt="google-artifact-registry" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud_Run-blue?style=for-the-badge" alt="google-cloud-run" height="20" /></a>
+ <br>
+  <a href="https://github.com/Arivima/Le_Wagon_MLOps_Optimization_Taxifare_Front"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
+  <a href="https://github.com/Arivima/Le_Wagon_MLOps_Optimization_Taxifare_Front"><img src="https://img.shields.io/badge/Taxifare_Optimization-Streamlit_app_for_prediction-lightgrey?style=flat" height="20"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" height="20" /></a>  <br>
+  <br>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/bootcamp-data_science_&_AI-black?style=flat" alt="bootcamp" height="20" /></a>
   <br>
   <a href="https://github.com/Arivima/LeWagon_Pokedex.git"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
   <a href="https://github.com/Arivima/LeWagon_Pokedex.git"><img src="https://img.shields.io/badge/Pokedex-identify_pokemon_&_generate_new_ones-lightgrey?style=flat" height="20"/></a>
@@ -64,7 +101,7 @@
   <a href="https://github.com/Arivima/LeWagon_Pokedex_front.git"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
   <a href="https://github.com/Arivima/LeWagon_Pokedex_front.git"><img src="https://img.shields.io/badge/Pokedex_front-user_interface-lightgrey?style=flat" height="20"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="20" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white" alt="python" height="20" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" height="20" /></a>
   <br>
   <br>
   <a href="https://github.com/Arivima/LeWagon_Taxifare.git"><img src="https://skillicons.dev/icons?i=github" height="20"/></a>
